@@ -1,0 +1,2 @@
+mongodb+srv://<username>:<password>@cluster0.etiqy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
